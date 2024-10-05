@@ -26,7 +26,7 @@ The **Customer Discount Approval** tool is designed to assist in evaluating diff
 - Key parameters such as Discount %, Cost of Goods Sold (COGS), and Average Net Invoice Price (NIP) are included to calculate the projected sales, costs, and gross margin.
 - The tool visually displays the gross margin against the target to easily assess whether the discount meets business goals.
 
-**File**: [Customer Discount Approval]()
+**File**: [Customer Discount Approval](https://github.com/Ranjith-Senthilkumar/Excel-Business-Operational-Tools/commit/add8456ca7b39adc99cbc7def5f168cc49b894b0#diff-53808a270c25e1d789a818e226ba98f49d25f17a6263e64234eb259c27d14610)
 
 ## Features
 - **Data-Driven Decisions**: Both tools use input data to generate insights that help businesses make better decisions.
